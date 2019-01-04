@@ -129,6 +129,7 @@ We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for
 - In the navigation pane, click __Review__ and choose __Preview Running Application__.
 
 - You will see the page like below.
+
 ![NotFound.png](./images/NotFound.png)
 
 - Add the following behind the __/__.
