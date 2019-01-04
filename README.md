@@ -5,7 +5,7 @@ Build recommendation engine with Amazon Machine Learning in Cloud9
 
 __Machine learning__ is a way to achieve artificial intelligence, using large amounts of data to train computers to learn a set of rules. We can use historical data to predict specific future data. Machine learning can be divided into two categories: __*Supervised Learning*__ , __*Unsupervised Learning*__ and __*Reinforcement Learning*__, while supervised learning infers a function from labeled training data consisting of a set of training examples, like __*Classification*__ and __*Regression*__, while unsupervised learning learns from test data that has not been labeled, commonly used in __*Clustering*__ and __*Dimensionality Reduct*__. Building machine learning models requires steps such as data cleanup, feature extraction, model selection, and often time-consuming.
 
-![ML.jpg](./images/ML.jpg)
+<img alt="ML.jpg" src="./images/ML.jpg" width="500">
 
 [Amazon Machine Learning](https://aws.amazon.com/aml/?nc1=h_ls) provides visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology. Once your models are ready, Amazon Machine Learning makes it easy to obtain predictions for your application using simple APIs, without having to implement custom prediction generation code, or manage any infrastructure.
 
