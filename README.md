@@ -3,7 +3,9 @@ Build recommendation engine with Amazon Machine Learning in Cloud9
 
 ## Overview
 
-__Machine learning__ is a way to achieve artificial intelligence, using large amounts of data to train computers to learn a set of rules. We can use historical data to predict specific future data. Machine learning can be divided into two categories: __*Supervised Learning*__ and __*Unsupervised Learning*__, while supervised learning infers a function from labeled training data consisting of a set of training examples, like __*Classification*__ and __*Regression*__, while unsupervised learning learns from test data that has not been labeled, commonly used in __*Clustering*__ and __*Dimensionality Reduct*__. Building machine learning models requires steps such as data cleanup, feature extraction, model selection, and often time-consuming.
+__Machine learning__ is a way to achieve artificial intelligence, using large amounts of data to train computers to learn a set of rules. We can use historical data to predict specific future data. Machine learning can be divided into two categories: __*Supervised Learning*__ , __*Unsupervised Learning*__ and __*Reinforcement Learning*__, while supervised learning infers a function from labeled training data consisting of a set of training examples, like __*Classification*__ and __*Regression*__, while unsupervised learning learns from test data that has not been labeled, commonly used in __*Clustering*__ and __*Dimensionality Reduct*__. Building machine learning models requires steps such as data cleanup, feature extraction, model selection, and often time-consuming.
+
+![ML.jpg](./images/ML.jpg)
 
 [Amazon Machine Learning](https://aws.amazon.com/aml/?nc1=h_ls) provides visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology. Once your models are ready, Amazon Machine Learning makes it easy to obtain predictions for your application using simple APIs, without having to implement custom prediction generation code, or manage any infrastructure.
 
@@ -149,4 +151,8 @@ We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for
 
 ## Conclusion
 
-Now you've created a forecast model for the number of bicycle rentals with __AWS Machine Learning__ and tested it with __Cloud9__ , and create realtime endpoint to add this to the php page for real-time predictions. This can also be used in other scenarios, such as spam classification, text sentiment analysis, news classification, movie recommendation engine, etc.
+Now you've created a forecast model for the number of bicycle rentals with __AWS Machine Learning__ and tested it with __Cloud9__ , and create realtime endpoint to add this to the php page for real-time predictions. 
+
+AWS Machine Learning can also be used in other scenarios, such as spam classification, text sentiment analysis, news classification, movie recommendation engine, etc. It really reduces labor costs and time to build, train the model. 
+
+Machine learning is now a trend, if you don't have any machine learning experience, just try AWS Machine Learning.
