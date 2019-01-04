@@ -21,7 +21,8 @@ Frist, we need to create a bucket to store rental bikes data. Following the step
 - For Bucket Name, type __Unique Name__.
 
 - For Region, choose __US East (N. Virginia)__, Click __Create__.
-![CreateBucket.jpg](./images/CreateBucket.jpg)
+
+<img alt="CreateBucket.jpg" src="./images/CreateBucket.jpg" width="70%">
 
 - Select the bucket which you created before, Click __Upload__, Click __Add files__.
 
@@ -37,12 +38,14 @@ Create a model for the number of bicycle rentals, and use __S3__ as data source,
 - For __S3 location__, choose the s3 bucket location/file which you created.
 
 - For __Datasource name__, type __ml‐data__, Click __Verify__.
-![ModelSetting.jpg](./images/ModelSetting.jpg)
+
+<img alt="ModelSetting.jpg" src="./images/ModelSetting.jpg" width="70%">
 
 - For __S3 permissions__, click __yes__.
 
 > Note: You will see ‘The validation is successful. To go to the next step, choose Continue’
-![VaildationSuccess.jpg](./images/VaildationSuccess.jpg)
+<img alt="VaildationSuccess.jpg" src="./images/VaildationSuccess.jpg" width="300">
+
 
 
 - In __Schema__ part:
@@ -67,7 +70,8 @@ Create a model for the number of bicycle rentals, and use __S3__ as data source,
 
 - For __Create a real-time endpoint__ dialog, click __Create__.
 - Note your real-time prediction __Endpoint Url__.
-![EndpointUrl.png](./images/EndpointUrl.png)
+
+<img alt="EndpointUrl.png" src="./images/EndpointUrl.png" width="300">
 
 ### Test Model in Web page using Cloud9
 We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for PHP to integrate __Amazon Machine Learning__ in our application. and build real-time predictions.
