@@ -74,7 +74,7 @@ Create a model for the number of bicycle rentals, and use __S3__ as data source,
 <img alt="EndpointUrl.png" src="./images/EndpointUrl.png" width="300">
 
 ### Test Model in Web page using Cloud9
-We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for PHP to integrate __Amazon Machine Learning__ in our application. and build real-time predictions.
+We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for PHP to integrate __Amazon Machine Learning__ in our application and build real-time predictions.
 
  [AWS Cloud9](https://aws.amazon.com/cloud9/?nc1=h_ls) is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects. 
 - On the service menu, click __Cloud9__, click __Create environment__.
