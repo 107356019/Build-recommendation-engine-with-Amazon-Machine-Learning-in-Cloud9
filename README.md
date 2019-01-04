@@ -153,6 +153,6 @@ We will use AWS Cloud9 services to develop our web page. The web use AWS SDK for
 
 Now you've created a forecast model for the number of bicycle rentals with __AWS Machine Learning__ and tested it with __Cloud9__ , and create realtime endpoint to add this to the php page for real-time predictions. 
 
-AWS Machine Learning can also be used in other scenarios, such as spam classification, text sentiment analysis, news classification, movie recommendation engine, etc. It really reduces labor costs and time to build, train the model. 
+AWS Machine Learning can also be used in other scenarios, such as spam classification, text sentiment analysis, news classification, movie recommendation engine, etc. It really reduces labor costs and time to build, train the model. 
 
 Machine learning is now a trend, if you don't have any machine learning experience, just try AWS Machine Learning.
